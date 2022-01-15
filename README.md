@@ -1,4 +1,4 @@
-[![emmanuelAkpe](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/emmanuelAkpe/emmanuelAkpe-CI-1500x500.png)][1]
+![git](https://user-images.githubusercontent.com/68768460/149626662-a495186a-a8fe-4cd4-b455-0f52f2e4b704.png)
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel Akpe</h1>
 <h3 align="center">I'm a passionate Web Developer from Ghana.</h3>

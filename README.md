@@ -13,7 +13,7 @@
 
 - 🎯 I’m looking for a full time position in **Web Development**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-ae387.web.app/)**
 
 - 📫 How to reach me **emmanuelakpe1@gmail.com**
 

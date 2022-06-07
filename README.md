@@ -1,6 +1,6 @@
-![git](https://user-images.githubusercontent.com/68768460/149627106-d5b79387-1640-49fe-81fc-a97b15523ede.png)
+![git]( https://media-exp1.licdn.com/dms/image/C4E16AQG-AyIXML2Hww/profile-displaybackgroundimage-shrink_200_800/0/1650147157075?e=1660176000&v=beta&t=zymLTXjx9C7VcobQr6-hlFfM0aSyEIOgqnAFsX3eQJ4)
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel Akpe</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Emmanuel Akpe</h1>
 <h3 align="center">I'm a passionate Web Developer from Ghana.</h3>
 
 

@@ -9,11 +9,11 @@
 - 🔭 I’m a **fast learner and constantly seeking to improve my skills**
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently working on  **Node Js** Projects.
+- 🌱 I’m currently working on  **Mern Stack** Projects.
 
-- 🎯 I’m looking for a full time position in **Web Development**
+- 🎯 I’m looking for a full time position in **Software/ Web Development**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-ae387.web.app/)**
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://portfolio-ae387.web.app/)**
 
 - 📫 How to reach me **emmanuelakpe1@gmail.com**
 

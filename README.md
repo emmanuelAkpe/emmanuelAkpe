@@ -13,7 +13,6 @@
 
 - 🎯 I’m looking for a full time position in **Software/ Web Development**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://portfolio-ae387.web.app/)**
 
 - 📫 How to reach me **emmanuelakpe1@gmail.com**
 
@@ -66,7 +65,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/emmanuel-akpe-8525121aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/eakpe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 </p>
